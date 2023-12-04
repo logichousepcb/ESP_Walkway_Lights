@@ -1,7 +1,7 @@
 # ESP_Walkway_Lights
 3D printed walkway lights with custom circuit board. 
 
-![GitHub Logo](https://[github.com/logichousepcb/Logix_Multifunction/blob/main/BEFORE%26AFTER.PNG](https://github.com/logichousepcb/ESP_Walkway_Lights/blob/main/Walkway%20Light%20Bottom.PNG))<br>
+![GitHub Logo](https://github.com/logichousepcb/ESP_Walkway_Lights/blob/main/Walkway%20Light%20Bottom.PNG)<br>
 
 Here is my walkway light project that runs on WLED but can easily be converted to ESPHome or custom firmware.  I plan to create an assembly video when time permits.  They run on 12V DC low power landscape lighting power.  Here is a parts list for anyone interest.  There are 4 3D printer parts and a 
 Parts List:
